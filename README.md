@@ -58,7 +58,7 @@ I’m a passionate Frontend Developer who enjoys turning ideas into interactive 
 ---
 
 ## 🐍 Contribution Snake
-![Contribution Snake](https://raw.githubusercontent.com/adhamjonjabborov07/adhamjonjabborov07/blob/output/snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/adhamjonjabborov07/adhamjonjabborov07/output/snake.svg)
 
 ---
 
