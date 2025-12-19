@@ -27,7 +27,6 @@
 ## 🌍 Connect With Me
 - 📍 Location: Tashkent, Uzbekistan  
 - 📸 Instagram: [@adhamjabborov](https://instagram.com/adhamjabborov)  
-- 💬 Telegram: [@adhamjabborov](https://t.me/adhamjabborov)  
 
 ---
 
@@ -65,7 +64,7 @@ I’m a passionate Frontend Developer who enjoys turning ideas into interactive 
 ---
 
 ## 🎵 Currently Listening
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)  
+[![Spotify](https://novatorem.vercel.app/api/spotify?user=spotify:track:5uGanzaloPhonkID)](https://open.spotify.com/track/5uGanzaloPhonkID)
 
 ---
 
