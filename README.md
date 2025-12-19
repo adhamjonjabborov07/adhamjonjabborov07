@@ -49,17 +49,17 @@ I’m a passionate Frontend Developer who enjoys turning ideas into interactive 
 ---
 
 ## 🐍 Contribution Snake
-![Contribution Snake](https://raw.githubusercontent.com/adhamjabborov/adhamjabborov/output/snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/adhamjonjabborov07/adhamjonjabborov0/output/snake.svg)
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=adhamjabborov&theme=dark&no-frame=true&margin-w=10&margin-h=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=adhamjonjabborov07&theme=dark&no-frame=true&margin-w=10&margin-h=10)
 
 ---
 
 ## 📊 GitHub Stats
-![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhamjabborov&show_icons=true&theme=radical)
+![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhamjonjabborov07&show_icons=true&theme=radical)
 
 ---
 
